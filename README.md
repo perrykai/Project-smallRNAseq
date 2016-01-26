@@ -1,1 +1,1 @@
-# Project_0_merge_fastq_files
+# scripts_0_merge_fastq_files
